@@ -1,6 +1,6 @@
 # Sasha Lihih  
 **Senior Full-Stack Engineer (Angular / NestJS / TypeScript / GraphQL)**  
-Belgrade, Serbia · English B1  
+Belgrade, Serbia · English B2  
 📧 sasha.lihih@gmail.com · 🔗 [LinkedIn](https://linkedin.com/in/sasha-lihih) · 💻 [GitHub](https://github.com/sashalihih)
 
 ---
