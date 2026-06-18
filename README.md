@@ -6,67 +6,21 @@ Belgrade, Serbia · English B2
 ---
 
 ## SUMMARY
-Senior full-stack engineer with 8+ years of experience building complex, interactive web applications.  
-Strong specialization in Angular + TypeScript across UI architecture, real-time features, GraphQL APIs, and accessibility (ADA/WCAG).  
-Solid backend experience with NestJS, PostgreSQL, RabbitMQ, and distributed systems.  
-Designed and delivered end-to-end features, integrated payment providers, improved accessibility, and contributed to production backend logic.
-
----
-
-## EXPERIENCE
-
-### **Senior Full-Stack Engineer — PROFI (US-based startup)**  
-*Mar 2021 – Present · Remote*  
-**Angular · TypeScript · GraphQL · NestJS · RabbitMQ · CRDT · PostgreSQL · WebSockets · Stripe · PayPal**
-
-- Designed and implemented end-to-end product features across Angular frontend and NestJS backend.  
-- Integrated payment providers (Stripe, PayPal): subscriptions, invoicing, and webhook handling.  
-- Built real-time data flows using GraphQL subscriptions and WebSockets **synchronized across multiple devices**.  
-- Implemented CRDT-based collaborative editing enabling consistent multi-user updates.  
-- Improved accessibility (ADA/WCAG) and supported preparation for the Series A audit.  
-- Contributed to backend logic (NestJS services, RabbitMQ queues, PostgreSQL data models).  
-- Built and maintained a shared UI component library to standardize design and accelerate development.  
-- Optimized performance and collaborated with QA/Product teams to enhance UX.
-
----
-
-### **Senior Frontend Developer — Omega Group**  
-*Mar 2020 – Mar 2021 · St Petersburg, Russia*  
-**Angular · TypeScript · RxJS · ClickHouse · Apache Druid · Node.js**
-
-- Built high-performance analytical dashboards working with **large-scale datasets (millions of rows)**.  
-- Integrated ClickHouse and Apache Druid for fast aggregations and interactive analytics.  
-- Designed reusable data visualization components for heavy data workflows.  
-- Optimized rendering and state management for big-data interactive UIs.  
-- Collaborated with backend engineers to refine API throughput and response patterns.
-
----
-
-### **Full-Stack Developer — ООО «ГЭС розница»**  
-*Feb 2015 – Mar 2020 · Rostov-on-Don, Russia*  
-**C# · SharePoint · SQL Server · JavaScript**
-
-- Developed internal tools and reporting systems.  
-- Automated business processes and improved data visibility.
-
----
-
-### **Manufacturing Automation Engineer — ClayStreet Porcelain**  
-*Jan 2014 – Jun 2015 · Remote*  
-**JavaScript · Automation · IoT**
-
-- Automated production workflows using JavaScript and IoT.  
-- Reduced manual labor and improved consistency.
+Senior Software Engineer with 10+ years of experience designing and delivering distributed systems and high-load
+platforms using TypeScript, Node.js, NestJS, Angular, React, PostgreSQL, Redis, and Kafka.
+Built microservice ecosystems, CQRS/DDD architectures, payment and wallet solutions, CDC and event-streaming
+pipelines, analytics platforms, and multi-level caching systems. Focused on scalability, reliability, maintainability, and
+operational excellence in production environments
 
 ---
 
 ## TECHNICAL SKILLS
 
-**Frontend:** Angular (latest), TypeScript, RxJS, SCSS, GraphQL, WebSocket, ADA/WCAG, CRDT  
-**Backend:** NestJS, Node.js, RabbitMQ, PostgreSQL, MongoDB  
-**Architecture:** Modular UI, Reactive State, CQRS, DDD  
-**Infrastructure:** Docker, AWS ECS, S3, CloudFront, GitHub Actions  
-**Practices:** Clean Architecture, Testing, Code Review, Accessibility
+Distributed Systems • Microservices • Event-Driven • CQRS • DDD • System Design • Technical Leadership
+TypeScript • Node.js • NestJS • Angular • React • PostgreSQL • Redis • Kafka • GraphQL
+Payment Systems • CDC Pipelines • Analytics Platforms • Multi-Level Caching • High-Load Applications
+Docker • Kubernetes • CI/CD • Observability • Monitoring
+Architecture Reviews • Mentoring • Cross-Team Collaboration • Product Development
 
 ---
 
