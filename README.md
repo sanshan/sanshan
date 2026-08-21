@@ -28,9 +28,8 @@ My approach is **AI-first, not AI-autopilot**:
 - use tests, static analysis, CI, and independent review as feedback loops;
 - optimize for maintainability rather than generated-code volume.
 
-<p align="center">
-  <img src="./assets/engineering-workflow.png" alt="AI-first engineering workflow: engineering owns decisions, AI accelerates execution, and automation verifies results" width="100%">
-</p>
+![AI-first engineering workflow: engineering owns decisions, AI accelerates execution, and automation verifies results](./assets/engineering-workflow-light.png#gh-light-mode-only)
+![AI-first engineering workflow: engineering owns decisions, AI accelerates execution, and automation verifies results](./assets/engineering-workflow-dark.png#gh-dark-mode-only)
 
 ## Engineering Focus
 
